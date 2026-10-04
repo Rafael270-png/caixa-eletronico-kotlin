@@ -52,7 +52,7 @@ Todo o código está organizado no arquivo `src/Main.kt`:
 
 A conta utilizada para demonstrar o funcionamento do sistema possui os seguintes dados:
 
-* **Titular:** João Silva
+* **Titular:** Rafael Mendes
 * **Número da conta:** 12345
 * **Senha:** `1234`
 * **Saldo inicial:** R$ 1.000,00
